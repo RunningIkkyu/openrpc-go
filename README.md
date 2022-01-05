@@ -1,5 +1,7 @@
 # openRPC-Go
 
+![OpenRPC logo](https://raw.githubusercontent.com/open-rpc/design/master/png/open-rpc-logo-320x320.png)
+
 The Go implementation of [openRPC](https://open-rpc.org).
 
 ## Prerequisites
